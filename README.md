@@ -1,0 +1,2 @@
+# Patient-Readmission-Prediction-System-using-Machine-Learning
+🏥 Machine Learning-powered healthcare analytics solution that predicts 30-day hospital readmissions using patient demographics, clinical history, medications, and hospitalization data. Built with Python, XGBoost, Scikit-Learn, and real-world healthcare datasets to support proactive patient care and data-driven clinical decision-making.
